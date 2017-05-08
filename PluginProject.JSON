@@ -1,0 +1,6 @@
+{
+  "android" : {
+     "baseURL" : "http://jenkins.konylabs.net/view/QA%20Android/job/AndroidPlugins-QA-7.0/"
+	 "pluginID" : "AND-QA-HF-7.3.0.2"
+  }
+}
